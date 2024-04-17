@@ -1,0 +1,8 @@
+prefix=/home/pcia1/demo01_ws/install
+
+Name: demo02_com
+Description: Description of demo02_com
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

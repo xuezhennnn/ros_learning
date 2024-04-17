@@ -1,0 +1,2 @@
+demo01_pkg:demo02_com
+-DCATKIN_DEVEL_PREFIX=/home/pcia1/demo01_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pcia1/demo01_ws/install -G Unix Makefiles
